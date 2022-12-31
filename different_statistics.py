@@ -4,6 +4,8 @@ plt.rcdefaults()
 
 # defing list with database files
 files = [
+    '2015/Zdarzenia.csv',
+    '2016/Zdarzenia.csv',
     '2017/Zdarzenia.csv',
     '2018/Zdarzenia.csv',
     '2020/Zdarzenia.csv',
